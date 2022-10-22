@@ -61,7 +61,7 @@
       <ul>
          <li><a href="https://www.coursera.org/specializations/machine-learning-introduction">Machine Learning Specialization by Andrew Ng (New Course🆕)</a> : Coursera.</li>
          <li><a href="https://www.udemy.com/course/machinelearning/">Machine Learning A-Z</a> : Udemy. </li>
-         <li> <a href="https://t.me/+GZ6Z6kbttAc3ZWNk" Udemy Telegram Link <li>
+         <li> <a href="https://t.me/+GZ6Z6kbttAc3ZWNk"> Udemy Telegram Link <li>
          
       </ul>
       <li>Books</li>
