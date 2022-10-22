@@ -403,7 +403,7 @@
             <p><a href="https://www.louisbouchard.ai/newsletter/">What's AI</a> </p>
          </li>
       </ul>
-      <li>People/Pages to follow</li>
+
       
       <li>Join these communities</li>
       <ul>
