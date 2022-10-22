@@ -404,11 +404,7 @@
          </li>
       </ul>
       <li>People/Pages to follow</li>
-      <ul>
-         <li>LinkedIn</li>
-         <li>Twitter</li>
-         <li>Medium</li>
-      </ul>
+      
       <li>Join these communities</li>
       <ul>
          <li>
